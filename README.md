@@ -1,4 +1,4 @@
-# tosem-QDTCSA-artifact
+# Artifact: "Dynamic Transitive Closure-Based Static Analysis through the Lens of Quantum Search"
 
 The artifact is publicly available at [https://github.com/jiawei-95/tosem-QDTCSA-artifact](https://github.com/jiawei-95/tosem-QDTCSA-artifact). You can clone the artifact repository using the command below:
 
